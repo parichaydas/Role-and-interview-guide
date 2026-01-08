@@ -1,0 +1,30 @@
+# AI Architect Role Overview
+
+## Role Description
+
+An AI Architect designs large-scale AI systems and strategies, focusing on technical direction and system-wide optimization.
+
+## Key Responsibilities
+
+- Design AI system architectures
+- Define AI strategy and roadmap
+- Ensure scalability and reliability
+- Lead technical decisions
+- Mentor engineering teams
+
+## Key Skills
+
+- System design and architecture
+- Strategic thinking
+- Leadership and communication
+- Deep AI/ML knowledge
+- Enterprise infrastructure
+
+## Interview Focus Areas
+
+- System design for AI
+- Scalability and performance
+- Trade-offs and decisions
+- Team leadership
+- Strategic planning
+
