@@ -27,4 +27,5 @@ An AI Architect designs large-scale AI systems and strategies, focusing on techn
 - Trade-offs and decisions
 - Team leadership
 - Strategic planning
+- System Design on LLMs
 
