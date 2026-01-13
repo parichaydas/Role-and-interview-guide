@@ -34,3 +34,5 @@ An AI Architect designs large-scale AI systems and strategies, focusing on techn
 - System Design on Time Series Forecasting
 - System Design on Natural Language Processing
 - System Design on Reinforcement Learning
+- System Design on Anomaly Detection
+
