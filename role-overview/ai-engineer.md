@@ -25,7 +25,9 @@ An AI Engineer develops end-to-end AI solutions, integrating large language mode
 - LLM capabilities and limitations
 - Prompt engineering
 - RAG systems
+- Advance RAG System
 - Model integration
 - Performance optimization
 - Production considerations
+- 
 
