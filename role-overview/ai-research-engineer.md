@@ -23,7 +23,13 @@ An AI Research Engineer combines software engineering with research, working on 
 ## Interview Focus Areas
 
 - Deep learning fundamentals
-- Current research trends
+- Current research topics
+- Research paper implementation
+- Experimental design and evaluation
+- Mathematical foundations
+- Programming and optimization
+- System design for AI research
+- Teamwork and communication
 
 
 
