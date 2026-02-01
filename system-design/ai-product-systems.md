@@ -25,5 +25,5 @@ Designing AI-powered products requires integrating AI capabilities with user exp
 - Model accuracy
 - System reliability
 - Cost efficiency
-- User retention
+
 
