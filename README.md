@@ -1,6 +1,6 @@
 # AI Role Interview Guide
 
-A comprehensive guide for AI/ML interviews covering multiple roles and specializations.
+A comprehensive guide for AI/ML/LLM interviews covering multiple roles and specializations.
 
 ## Repository Structure
 
